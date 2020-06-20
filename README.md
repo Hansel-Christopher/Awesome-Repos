@@ -1,7 +1,6 @@
-# Awesome Repos 
-
 <img src="https://img.icons8.com/fluent/96/000000/github.png" title="Photo by Markus Spiske from Pexels" align="right">
 
+# Awesome Repos 
 
 ### This is a collection of some interesting repos that I've found useful during my projects
 
