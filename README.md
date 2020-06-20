@@ -1,4 +1,4 @@
-<img src="https://img.icons8.com/fluent/96/000000/github.png" title="Photo by Markus Spiske from Pexels" align="right">
+<img src="https://img.icons8.com/fluent/96/000000/github.png" title="GitHub icon by Icons8" align="right">
 
 # Awesome Repos 
 
